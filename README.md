@@ -8,5 +8,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucasaraujofarias&show_icons=true&theme=radical)
 
 ##Tecnologias que eu uso no meu dia <hr>
-[![HTML 5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]
+![HTML 5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
