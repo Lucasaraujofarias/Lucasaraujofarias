@@ -9,6 +9,6 @@
 
 ##Tecnologias que eu uso no meu dia <hr>
 <div  style="display : inline_block"><br>
-    [![HTML 5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](link_para_html5)
+    [![HTML 5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]
 </div>
 
