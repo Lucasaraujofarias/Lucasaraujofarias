@@ -9,10 +9,10 @@
 
 ##Tecnologias que eu uso no meu dia <hr>
 <div  style="display : inline_block"><br>
-    <img alt="HTM5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img alt="javascrip" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img alt="Java" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    [![HTML 5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](link_para_html5)
+    [![CSS 3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](link_para_css3)
+    [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](link_para_javascript)
+    [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](link_para_java)
     
 </div>
 
