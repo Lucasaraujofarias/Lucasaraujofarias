@@ -8,6 +8,6 @@
   ![CSS 3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-  ![Python](https://img.shields.io/pypi/pyversions/:packageName)
+  ![Python](https://img.shields.io/pypi/pyversions/)
 
 
